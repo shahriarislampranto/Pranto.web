@@ -7,4 +7,4 @@
 
 <h2>HTML Images</h2>
 
-<img src="/storage/emulated/0/DCIM/Camera/IMG_20200625_181703" alt="W3Schools.com" width="104" height="142"
+<img src="IMG_20200625_181703.jpg" alt="W3Schools.com" width="104" height="142"
