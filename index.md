@@ -7,4 +7,4 @@
 
 <h2>HTML Images</h2>
 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="D:\PHOTO\Photos" alt="W3Schools.com" width="104" height="142">
